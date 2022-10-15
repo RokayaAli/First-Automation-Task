@@ -9,10 +9,10 @@ Using Selenuim With Java
   - Validate The Purchased Order in History Page 
 
 #### You Can Find Test Cases for the mentioned modules in this link:
-[Click Here](https://github.com/RokayaAli/FirstAutomationTask/tree/main/src/test/java/HappyScenario) 
+[Click Here](https://github.com/RokayaAli/First-Automation-Task/tree/master/src/test/java/HappyScenario) 
 
 #### I applied Data driven model and you can find it in ReadDataExcel Class to Extract data while login and Registration.You can find it in this link:
-[Click Here](https://github.com/RokayaAli/FirstAutomationTask/blob/main/src/main/java/Util/ReadDataExcel.java)
+[Click Here](https://github.com/RokayaAli/First-Automation-Task/blob/master/src/main/java/Util/ReadDataExcel.java)
 
 ## Report of Running test
 [CLICK Here to Find the Test Report](https://htmlpreview.github.io/?https://github.com/RokayaAli/First-Automation-Task/blob/master/test-output/Default%20Suite/practice.html)
