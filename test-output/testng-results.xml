@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-18T22:25:31 EET" name="Default Suite" finished-at="2022-09-18T22:26:21 EET" duration-ms="50635">
+    <groups>
+    </groups>
+    <test started-at="2022-09-18T22:25:31 EET" name="practice" finished-at="2022-09-18T22:26:21 EET" duration-ms="50635">
+      <class name="HappyScenario.ShoppinhScenraio">
+        <test-method is-config="true" signature="open_browser()[pri:0, instance:HappyScenario.ShoppinhScenraio@12d4bf7e]" started-at="2022-09-18T22:25:31 EET" name="open_browser" finished-at="2022-09-18T22:25:41 EET" duration-ms="10814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method signature="Login_TCs(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:HappyScenario.ShoppinhScenraio@12d4bf7e]" started-at="2022-09-18T22:25:42 EET" name="Login_TCs" data-provider="Login" finished-at="2022-09-18T22:25:51 EET" duration-ms="8304" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rokiaali841@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rokaya]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Ali]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_TCs -->
+        <test-method signature="Shop_TCs()[pri:2, instance:HappyScenario.ShoppinhScenraio@12d4bf7e]" started-at="2022-09-18T22:25:51 EET" name="Shop_TCs" finished-at="2022-09-18T22:25:54 EET" duration-ms="3412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Shop_TCs -->
+        <test-method signature="SelectResultedProduct_TCs()[pri:3, instance:HappyScenario.ShoppinhScenraio@12d4bf7e]" started-at="2022-09-18T22:25:54 EET" name="SelectResultedProduct_TCs" finished-at="2022-09-18T22:25:57 EET" duration-ms="2841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectResultedProduct_TCs -->
+        <test-method signature="AddToCart_TCs()[pri:4, instance:HappyScenario.ShoppinhScenraio@12d4bf7e]" started-at="2022-09-18T22:25:57 EET" name="AddToCart_TCs" finished-at="2022-09-18T22:26:01 EET" duration-ms="3820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart_TCs -->
+        <test-method signature="CartSummary()[pri:5, instance:HappyScenario.ShoppinhScenraio@12d4bf7e]" started-at="2022-09-18T22:26:01 EET" name="CartSummary" finished-at="2022-09-18T22:26:03 EET" duration-ms="2147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartSummary -->
+        <test-method signature="ShippingSummary()[pri:6, instance:HappyScenario.ShoppinhScenraio@12d4bf7e]" started-at="2022-09-18T22:26:03 EET" name="ShippingSummary" finished-at="2022-09-18T22:26:04 EET" duration-ms="1347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShippingSummary -->
+        <test-method signature="SelectPaymentMethod()[pri:7, instance:HappyScenario.ShoppinhScenraio@12d4bf7e]" started-at="2022-09-18T22:26:04 EET" name="SelectPaymentMethod" finished-at="2022-09-18T22:26:08 EET" duration-ms="3272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectPaymentMethod -->
+        <test-method signature="OrderSummary()[pri:8, instance:HappyScenario.ShoppinhScenraio@12d4bf7e]" started-at="2022-09-18T22:26:08 EET" name="OrderSummary" finished-at="2022-09-18T22:26:11 EET" duration-ms="3200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderSummary -->
+        <test-method signature="ConfirmOrder()[pri:9, instance:HappyScenario.ShoppinhScenraio@12d4bf7e]" started-at="2022-09-18T22:26:11 EET" name="ConfirmOrder" finished-at="2022-09-18T22:26:15 EET" duration-ms="4314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfirmOrder -->
+        <test-method signature="ValidateOrder()[pri:10, instance:HappyScenario.ShoppinhScenraio@12d4bf7e]" started-at="2022-09-18T22:26:15 EET" name="ValidateOrder" finished-at="2022-09-18T22:26:21 EET" duration-ms="5885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateOrder -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:HappyScenario.ShoppinhScenraio@12d4bf7e]" started-at="2022-09-18T22:26:21 EET" name="close_browser" finished-at="2022-09-18T22:26:21 EET" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- HappyScenario.ShoppinhScenraio -->
+    </test> <!-- practice -->
+  </suite> <!-- Default Suite -->
+</testng-results>
