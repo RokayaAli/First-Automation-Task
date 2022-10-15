@@ -15,4 +15,4 @@ Using Selenuim With Java
 [Click Here](https://github.com/RokayaAli/FirstAutomationTask/blob/main/src/main/java/Util/ReadDataExcel.java)
 
 ## Report of Running test
-[CLICK Here to Find the Test Report](https://htmlpreview.github.io/https://github.com/RokayaAli/First-Automation-Task/blob/master/test-output/Default%20Suite/practice.html)
+[CLICK Here to Find the Test Report](https://htmlpreview.github.io/?https://github.com/RokayaAli/First-Automation-Task/blob/master/test-output/Default%20Suite/practice.html)
